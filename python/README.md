@@ -56,14 +56,6 @@ pip install pandas
 + 데이터 분석을 위한 라이버리
 + [Pandas 공식 문서](https://pandas.pydata.org/pandas-docs/stable/reference/index.html)
 
-## BeautifulSoup 설치
-```cmd
-pip install beautifulsoup4
-```
-+ html 문서 수집
-+ 웹 크롤링에 사용하는 종류 중 하나
-+ [BeautifulSoup 공식문서](https://www.crummy.com/software/BeautifulSoup/)
-
 ## Streamlit 설치
 ```cmd
 pip install streamlit
@@ -72,13 +64,3 @@ pip install streamlit
 + 기존 html, css 이해 없이 바로 페이지 생성
 + 시각화를 위해서 차트 지원
 + [Streamlit 공식문서](https://docs.streamlit.io/)
-
-## Selenium 설치
-```cmd
-pip install selenium
-```
-+ 자동화 프레임워크 프로그램
-+ BeautifulSoup 다음으로 웹 크롤링으로 사용
-+ 단점, 속도가 다른 웹 크롤링 보다 느림
-+ 장점, Python 뿐만 아니고 다른 언어에서도 개발 가능
-+ [Selenium 공식문서](https://www.selenium.dev/)
